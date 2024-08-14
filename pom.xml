@@ -17,14 +17,14 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://100.25.155.112:8081/repository/mc-snapshot/</url>
+		    <url>http://34.202.162.29:8081/repository/kittu-repo-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://100.25.155.112:8081/repository/mc-release/</url>
+		    <url>http://34.202.162.29:8081/repository/kittu-repo/</url>
 		</repository>
-  	</distributionManagement>
+     </distributionManagement>
 
     
     <build>
